@@ -1,8 +1,6 @@
 // ==UserScript==
 // @name         Coleta Geral
-// @namespace    https://br114.tribalwars.com.br
 // @version      1.3
-// @description  Vodkazera
 // @author       Vodkazera
 // @include https://br*.tribalwars.com.br/*mode=scavenge*
 // @grant GM_setValue
